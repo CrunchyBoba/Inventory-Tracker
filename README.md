@@ -1,6 +1,6 @@
 # HKDBF Inventory
 
-A GitHub Pages-ready inventory tracker for the Hong Kong Dragon Boat Festival in Queens, NY. It starts from the 2026 closing inventory, organizes equipment by location, and records year-specific additions and removals.
+A GitHub hosted inventory tracker for the Hong Kong Dragon Boat Festival in Queens, NY. It starts from the 2026 closing date, organizes equipment by location, and records year-specific changes.
 
 ## Project layout
 
