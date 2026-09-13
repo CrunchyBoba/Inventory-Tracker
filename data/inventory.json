@@ -1,0 +1,1035 @@
+{
+  "source": "Closing Inventory 2026.xlsx - Sheet1.csv",
+  "created": "2026-09-12",
+  "items": [
+    {
+      "id": "boats",
+      "name": "Boats",
+      "amount": 17,
+      "location": "Annex",
+      "notes": "12 Simons, 4 Swifts, 1 Wooden"
+    },
+    {
+      "id": "item-002",
+      "name": "Champion Heads",
+      "amount": 8,
+      "location": "Back of Annex (Shelf)",
+      "notes": ""
+    },
+    {
+      "id": "item-003",
+      "name": "Champion Tails",
+      "amount": 8,
+      "location": "Back of Annex (Shelf)",
+      "notes": ""
+    },
+    {
+      "id": "item-004",
+      "name": "Swift Heads",
+      "amount": 17,
+      "location": "Back of Annex (Shelf)",
+      "notes": ""
+    },
+    {
+      "id": "item-005",
+      "name": "Swift Tails",
+      "amount": 19,
+      "location": "Back of Annex (Shelf)",
+      "notes": ""
+    },
+    {
+      "id": "item-006",
+      "name": "Simon River Heads",
+      "amount": 16,
+      "location": "Back of Annex (Shelf)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-007",
+      "name": "Simon River Tails",
+      "amount": 18,
+      "location": "Back of Annex (Shelf)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-008",
+      "name": "Red Benches",
+      "amount": 4,
+      "location": "Back of Annex (Shelf)",
+      "notes": "Used for display at press events i.e Times Sq"
+    },
+    {
+      "id": "item-009",
+      "name": "Champion Drums",
+      "amount": 6,
+      "location": "Front of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-010",
+      "name": "Wooden Boat Drums",
+      "amount": 18,
+      "location": "Front of Annex (Above Gate)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-011",
+      "name": "Simon River Drums",
+      "amount": 13,
+      "location": "Front of Annex (Above Gate)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-012",
+      "name": "Swift Drums",
+      "amount": 17,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-013",
+      "name": "Champion Seats",
+      "amount": 12,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-014",
+      "name": "Wooden Boat Seats",
+      "amount": 6,
+      "location": "Back of Annex (Right)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-015",
+      "name": "Simon River Seats",
+      "amount": 12,
+      "location": "Back of Annex (Right)",
+      "notes": "Needs to be matched at least 2.5 - 3 weeks prior"
+    },
+    {
+      "id": "item-016",
+      "name": "Swift Seats",
+      "amount": 17,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-017",
+      "name": "Champion Oars",
+      "amount": 8,
+      "location": "Right wall/right boats",
+      "notes": ""
+    },
+    {
+      "id": "item-018",
+      "name": "Wooden Boat Oars",
+      "amount": 18,
+      "location": "Right wall/right boats",
+      "notes": ""
+    },
+    {
+      "id": "item-019",
+      "name": "Simon River Oars",
+      "amount": 13,
+      "location": "Right wall/right boats",
+      "notes": ""
+    },
+    {
+      "id": "item-020",
+      "name": "Swift Oars",
+      "amount": 14,
+      "location": "Right wall/right boats",
+      "notes": "Some broken \u22484"
+    },
+    {
+      "id": "item-021",
+      "name": "Duct-Taped Oars",
+      "amount": 1,
+      "location": "Right wall/right boats",
+      "notes": ""
+    },
+    {
+      "id": "item-022",
+      "name": "Wooden head/ tail",
+      "amount": 12,
+      "location": "Back of Annex (Left)",
+      "notes": ""
+    },
+    {
+      "id": "item-023",
+      "name": "Life jacket w/ keys",
+      "amount": 0,
+      "location": "Shopping cart",
+      "notes": "No count supplied in original inventory"
+    },
+    {
+      "id": "item-024",
+      "name": "Blue foot table?",
+      "amount": 0,
+      "location": "on JJ",
+      "notes": "No count supplied in original inventory"
+    },
+    {
+      "id": "item-025",
+      "name": "Pittsburgh tool kit",
+      "amount": 0,
+      "location": "near back door",
+      "notes": "plus 100 screws; No count supplied in original inventory"
+    },
+    {
+      "id": "item-026",
+      "name": "Red/Gray Life Jackets",
+      "amount": 66,
+      "location": "Back of Annex (Right)",
+      "notes": "120"
+    },
+    {
+      "id": "item-027",
+      "name": "Blue/Gray Life Jackets",
+      "amount": 66,
+      "location": "Back of Annex (Right)",
+      "notes": "100"
+    },
+    {
+      "id": "item-028",
+      "name": "Orange/Blue Life Jackets",
+      "amount": 66,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-029",
+      "name": "Yellow/Gray Life Jackets",
+      "amount": 66,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-030",
+      "name": "Yellow/Blue Life Jackets (old)",
+      "amount": 40,
+      "location": "Back of Annex (Right)",
+      "notes": "40"
+    },
+    {
+      "id": "item-031",
+      "name": "Red/Black Life Jacket (old)",
+      "amount": 140,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-032",
+      "name": "Blue/Green Life Jacket (old)",
+      "amount": 30,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-033",
+      "name": "Red/Yellow Life Jacket (old)",
+      "amount": 45,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-034",
+      "name": "Orange (Chase boat) Life Jacket",
+      "amount": 20,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-035",
+      "name": "Pontoons",
+      "amount": 18,
+      "location": "Under docks",
+      "notes": ""
+    },
+    {
+      "id": "item-036",
+      "name": "Bailers",
+      "amount": 45,
+      "location": "Scattered",
+      "notes": ""
+    },
+    {
+      "id": "item-037",
+      "name": "Drum Sticks w/o Tennis Balls",
+      "amount": 15,
+      "location": "Front of Annex (rt)",
+      "notes": "scattered"
+    },
+    {
+      "id": "item-038",
+      "name": "Drum Sticks w. Tennis Balls",
+      "amount": 18,
+      "location": "Front of Annex (rt)",
+      "notes": ""
+    },
+    {
+      "id": "item-039",
+      "name": "Practice Day Paddles",
+      "amount": 270,
+      "location": "Back of Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-040",
+      "name": "Race Day Paddles",
+      "amount": 171,
+      "location": "Back of Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-041",
+      "name": "Carbon Fiber Paddles",
+      "amount": 200,
+      "location": "Back of Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-042",
+      "name": "Crates of broken paddles",
+      "amount": 1,
+      "location": "Back of Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-043",
+      "name": "Dragon Head Mold",
+      "amount": 1,
+      "location": "Right of Backdoor",
+      "notes": "broken, mike has"
+    },
+    {
+      "id": "item-044",
+      "name": "Dragon Tail Mold",
+      "amount": 1,
+      "location": "Right of Backdoor",
+      "notes": "broken, mike has"
+    },
+    {
+      "id": "item-045",
+      "name": "Metal Steering Oar Holder",
+      "amount": 13,
+      "location": "3rd Row Gray Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-046",
+      "name": "Fiberglass Repair Kit",
+      "amount": 1,
+      "location": "1st Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-047",
+      "name": "4 Stroke Gas Tank",
+      "amount": 9,
+      "location": "First Container Right of BH",
+      "notes": ""
+    },
+    {
+      "id": "item-048",
+      "name": "4 Stroke Gas Tank Cap",
+      "amount": 6,
+      "location": "First Container Right of BH",
+      "notes": ""
+    },
+    {
+      "id": "item-049",
+      "name": "4 Stroke Gas Hose",
+      "amount": 8,
+      "location": "Shopping cart",
+      "notes": "4 tested"
+    },
+    {
+      "id": "item-050",
+      "name": "2 Stroke Gas Tank",
+      "amount": 3,
+      "location": "First Container Right of BH",
+      "notes": ""
+    },
+    {
+      "id": "item-051",
+      "name": "2 Stroke Gas Tank Cap",
+      "amount": 3,
+      "location": "First Container Right of BH",
+      "notes": ""
+    },
+    {
+      "id": "item-052",
+      "name": "2 Stroke Gas Hose",
+      "amount": 3,
+      "location": "Front of Annex (Left)",
+      "notes": ""
+    },
+    {
+      "id": "item-053",
+      "name": "Nisan engine",
+      "amount": 2,
+      "location": "Front of Annex (Left)",
+      "notes": "1 Broken for Parts"
+    },
+    {
+      "id": "item-054",
+      "name": "Tohatsu engine",
+      "amount": 4,
+      "location": "Front of Annex (Left)",
+      "notes": "2 new, 2 old"
+    },
+    {
+      "id": "item-055",
+      "name": "Honda engine",
+      "amount": 4,
+      "location": "Annex",
+      "notes": "2 new, 2 older"
+    },
+    {
+      "id": "item-056",
+      "name": "Engine Keys/Cords",
+      "amount": 7,
+      "location": "3rd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-057",
+      "name": "Orange Chase Boat Jackets",
+      "amount": 12,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-058",
+      "name": "Chase boat frame",
+      "amount": 0,
+      "location": "Annex",
+      "notes": "2 long, 3 medium, 3 short chase boat frames; No count supplied in original inventory"
+    },
+    {
+      "id": "item-059",
+      "name": "Fuel stabilizer",
+      "amount": 1,
+      "location": "Front Annex Right Drawer",
+      "notes": ""
+    },
+    {
+      "id": "item-060",
+      "name": "Gear oil",
+      "amount": 1,
+      "location": "Front Annex Right Drawer",
+      "notes": ""
+    },
+    {
+      "id": "item-061",
+      "name": "Wooden Engine Rack",
+      "amount": 4,
+      "location": "Front of Annex (Left)",
+      "notes": ""
+    },
+    {
+      "id": "item-062",
+      "name": "Rolling Engine Rack",
+      "amount": 6,
+      "location": "Front of Annex (Left)",
+      "notes": "2 big, 4 small"
+    },
+    {
+      "id": "item-063",
+      "name": "Water Hose",
+      "amount": 7,
+      "location": "Front of Annex (Right)",
+      "notes": "ripped"
+    },
+    {
+      "id": "item-064",
+      "name": "Cinderblocks",
+      "amount": 72,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-065",
+      "name": "Extension Cord",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-066",
+      "name": "Power Splitter",
+      "amount": 1,
+      "location": "3rd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-067",
+      "name": "Sharpie",
+      "amount": 1,
+      "location": "2nd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-068",
+      "name": "Yellow Rope",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-069",
+      "name": "White Rope",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-070",
+      "name": "Power washer",
+      "amount": 2,
+      "location": "Front of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-071",
+      "name": "Bungee Cords",
+      "amount": 15,
+      "location": "2nd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-072",
+      "name": "Screws",
+      "amount": 79,
+      "location": "3rd Row Black Cabinet",
+      "notes": "For Simon Rivers"
+    },
+    {
+      "id": "item-073",
+      "name": "Screws/Nails (Boxes)",
+      "amount": 4,
+      "location": "2nd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-074",
+      "name": "Dual Head Hose Attachment",
+      "amount": 2,
+      "location": "Annex",
+      "notes": "For Hose"
+    },
+    {
+      "id": "item-075",
+      "name": "Paintbrush",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-076",
+      "name": "White Screws",
+      "amount": 5,
+      "location": "Annex",
+      "notes": "For Simon Rivers"
+    },
+    {
+      "id": "item-077",
+      "name": "Carabiners",
+      "amount": 1,
+      "location": "Annex",
+      "notes": "Careful when using for moving wood boats, may snap"
+    },
+    {
+      "id": "item-078",
+      "name": "Clear Tape",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-079",
+      "name": "Duct Tape",
+      "amount": 2,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-080",
+      "name": "Caulk",
+      "amount": 4,
+      "location": "Front of Annex (Next to Black Cabinet)",
+      "notes": ""
+    },
+    {
+      "id": "item-081",
+      "name": "Wood Glue",
+      "amount": 1,
+      "location": "2nd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-082",
+      "name": "Rolling Garbage Containers",
+      "amount": 3,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-083",
+      "name": "Garbage Bins",
+      "amount": 27,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-084",
+      "name": "Tents",
+      "amount": 4,
+      "location": "Front of Annex (Left)",
+      "notes": "5 Working 3 Broken"
+    },
+    {
+      "id": "item-085",
+      "name": "Wooden Planks",
+      "amount": 6,
+      "location": "Back of Annex (Right)",
+      "notes": "For Docks"
+    },
+    {
+      "id": "item-086",
+      "name": "Clear Garbage Bags (Boxes)",
+      "amount": 1,
+      "location": "Front of Annex (Next to Black Cabinet)",
+      "notes": ""
+    },
+    {
+      "id": "item-087",
+      "name": "White String",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-088",
+      "name": "Bucket of Metal Scraps",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-089",
+      "name": "Fiberglass Tips",
+      "amount": 6,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-090",
+      "name": "Fishing Rods",
+      "amount": 4,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-091",
+      "name": "Washers",
+      "amount": 14,
+      "location": "Annex",
+      "notes": "For Swifts"
+    },
+    {
+      "id": "item-092",
+      "name": "Mirror",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-093",
+      "name": "Funnel",
+      "amount": 2,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-094",
+      "name": "Tables",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-095",
+      "name": "Hose Spray Head",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-096",
+      "name": "Fire extinguisher broken",
+      "amount": 2,
+      "location": "annex",
+      "notes": ""
+    },
+    {
+      "id": "item-097",
+      "name": "buckets",
+      "amount": 11,
+      "location": "annex",
+      "notes": ""
+    },
+    {
+      "id": "item-098",
+      "name": "wheel buckets?",
+      "amount": 6,
+      "location": "annex",
+      "notes": ""
+    },
+    {
+      "id": "item-099",
+      "name": "air pump for wheels",
+      "amount": 1,
+      "location": "annex back",
+      "notes": ""
+    },
+    {
+      "id": "item-100",
+      "name": "brush cleaner",
+      "amount": 0,
+      "location": "frat left",
+      "notes": "No count supplied in original inventory"
+    },
+    {
+      "id": "item-101",
+      "name": "Judges Scaffolding",
+      "amount": 2,
+      "location": "Front of Annex (Left)",
+      "notes": ""
+    },
+    {
+      "id": "item-102",
+      "name": "Red Judges Flag",
+      "amount": 1,
+      "location": "Back Shelf Boathouse",
+      "notes": ""
+    },
+    {
+      "id": "item-103",
+      "name": "White Judges Flag",
+      "amount": 1,
+      "location": "Back Shelf Boathouse",
+      "notes": ""
+    },
+    {
+      "id": "item-104",
+      "name": "White Dock Flag",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-105",
+      "name": "Green Dock Flag",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-106",
+      "name": "Blue Dock Flag",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-107",
+      "name": "Yellow Dock Flag",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-108",
+      "name": "Pink Dock Flag",
+      "amount": 3,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-109",
+      "name": "USA Judges Jackets",
+      "amount": 5,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-110",
+      "name": "Long Metal Poles",
+      "amount": 65,
+      "location": "Boats (right)",
+      "notes": ""
+    },
+    {
+      "id": "item-111",
+      "name": "Medium Metal Poles",
+      "amount": 25,
+      "location": "Boats (right)",
+      "notes": ""
+    },
+    {
+      "id": "item-112",
+      "name": "Thick Metal Poles",
+      "amount": 2,
+      "location": "Back of Annex (Left)",
+      "notes": ""
+    },
+    {
+      "id": "item-113",
+      "name": "Buoy large red",
+      "amount": 4,
+      "location": "Annex boat right",
+      "notes": ""
+    },
+    {
+      "id": "item-114",
+      "name": "Buoy large white",
+      "amount": 7,
+      "location": "Annex boat right",
+      "notes": ""
+    },
+    {
+      "id": "item-115",
+      "name": "Buoy small red",
+      "amount": 16,
+      "location": "Annex boat right",
+      "notes": ""
+    },
+    {
+      "id": "item-116",
+      "name": "Buoy small white",
+      "amount": 20,
+      "location": "Annex boat right",
+      "notes": ""
+    },
+    {
+      "id": "item-117",
+      "name": "Buoy yellow/green",
+      "amount": 7,
+      "location": "Annex boat right",
+      "notes": ""
+    },
+    {
+      "id": "item-118",
+      "name": "Buoy Screws",
+      "amount": 40,
+      "location": "3rd Row Black Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-119",
+      "name": "Tent Stakes",
+      "amount": 6,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-120",
+      "name": "Air Horn",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-121",
+      "name": "Hydraulic Table Cart (JJ & SY)",
+      "amount": 2,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-122",
+      "name": "Plastic Spatula",
+      "amount": 5,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-123",
+      "name": "Scraper",
+      "amount": 6,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-124",
+      "name": "Rake",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-125",
+      "name": "Broom",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-126",
+      "name": "Step Ladder",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-127",
+      "name": "Blue Stair Ladder",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-128",
+      "name": "Scissors",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-129",
+      "name": "Brush",
+      "amount": 4,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-130",
+      "name": "Caulk Guns",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-131",
+      "name": "Ladder",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-132",
+      "name": "Buckets",
+      "amount": 18,
+      "location": "Front of Annex (Next to Black Cabinet)",
+      "notes": ""
+    },
+    {
+      "id": "item-133",
+      "name": "Sledge Hammer",
+      "amount": 1,
+      "location": "Back of Annex (Left)",
+      "notes": "Handle Half Broken (Taped together)"
+    },
+    {
+      "id": "item-134",
+      "name": "Forklift",
+      "amount": 2,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-135",
+      "name": "Flood Light",
+      "amount": 1,
+      "location": "Front of Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-136",
+      "name": "Wrench",
+      "amount": 8,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-137",
+      "name": "Screwdrivers",
+      "amount": 3,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-138",
+      "name": "Gorilla Tape (White)",
+      "amount": 1,
+      "location": "2nd Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-139",
+      "name": "Gorilla Tape (Black)",
+      "amount": 1,
+      "location": "2nd Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-140",
+      "name": "Wooden Dolly",
+      "amount": 5,
+      "location": "Middle",
+      "notes": ""
+    },
+    {
+      "id": "item-141",
+      "name": "Grill",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-142",
+      "name": "Fridge",
+      "amount": 5,
+      "location": "Annex",
+      "notes": "3 medium, 2 small"
+    },
+    {
+      "id": "item-143",
+      "name": "Shopping cart",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-144",
+      "name": "Hot dog compressor",
+      "amount": 1,
+      "location": "Annex",
+      "notes": ""
+    },
+    {
+      "id": "item-145",
+      "name": "Wooden Pieces/Scrap",
+      "amount": 70,
+      "location": "Back of Annex (Right)",
+      "notes": ""
+    },
+    {
+      "id": "item-146",
+      "name": "Master Lock",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    },
+    {
+      "id": "item-147",
+      "name": "Cash Box",
+      "amount": 1,
+      "location": "4th Row Boathouse Cabinet",
+      "notes": ""
+    }
+  ]
+}

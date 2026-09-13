@@ -1,0 +1,37 @@
+{
+  "years": [2026, 2027],
+  "changes": [
+    {
+      "id": "change-001",
+      "itemId": "item-036",
+      "year": 2026,
+      "delta": -5,
+      "date": "2026-05-01",
+      "note": "Initial 2026 adjustment"
+    },
+    {
+      "id": "change-002",
+      "itemId": "item-006",
+      "year": 2026,
+      "delta": -3,
+      "date": "2026-05-01",
+      "note": "Initial 2026 adjustment"
+    },
+    {
+      "id": "change-003",
+      "itemId": "item-007",
+      "year": 2026,
+      "delta": -3,
+      "date": "2026-05-01",
+      "note": "Initial 2026 adjustment"
+    },
+    {
+      "id": "change-004",
+      "itemId": "item-020",
+      "year": 2026,
+      "delta": -2,
+      "date": "2026-05-01",
+      "note": "Initial 2026 adjustment"
+    }
+  ]
+}
