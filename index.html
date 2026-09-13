@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HKDBF Inventory</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <button class="brand" id="home-button" aria-label="Return to locations">HKDBF <span>Inventory</span></button>
+      <time id="today"></time>
+    </header>
+
+    <main>
+      <section id="home-view" class="view">
+        <div class="hero">
+          <div>
+            <p class="eyebrow">Hong Kong Dragon Boat Festival · Queens, NY</p>
+            <h1>Where is everything?</h1>
+            <p>Choose a location to view equipment, record annual changes, and keep a durable inventory history.</p>
+          </div>
+          <div class="hero-actions">
+            <button class="button secondary" id="backup-button">Download backup</button>
+            <button class="button" id="add-item-button">+ Add inventory</button>
+          </div>
+        </div>
+        <div class="stats" id="stats"></div>
+        <div class="location-grid" id="location-grid"></div>
+      </section>
+
+      <section id="location-view" class="view hidden" aria-live="polite">
+        <button class="back-link" id="back-button">← All locations</button>
+        <div class="location-heading">
+          <div>
+            <p class="eyebrow">Inventory location</p>
+            <h1 id="location-title"></h1>
+          </div>
+          <div class="year-picker"><label for="year-select">Editing year</label><select id="year-select"></select></div>
+        </div>
+        <div class="inventory-table-wrap">
+          <table>
+            <thead><tr><th>Item</th><th>Starting amount</th><th id="year-header">2026 change</th><th>Current total</th><th>Adjust</th></tr></thead>
+            <tbody id="inventory-rows"></tbody>
+          </table>
+        </div>
+        <div class="location-actions">
+          <button class="button secondary" id="add-item-here">+ Add item here</button>
+          <button class="text-button" id="add-location">+ Add a location</button>
+        </div>
+      </section>
+    </main>
+
+    <dialog id="item-dialog">
+      <form id="item-form">
+        <div class="dialog-top"><h2>Add inventory</h2><button type="button" class="icon-button" data-close-dialog aria-label="Close">×</button></div>
+        <label>Item name<input name="name" required maxlength="100" /></label>
+        <label>Starting amount<input name="amount" type="number" min="0" step="1" required value="0" /></label>
+        <label>Location<input name="location" list="locations" required /></label>
+        <datalist id="locations"></datalist>
+        <label>Comments / details <span class="muted">(optional)</span><textarea name="notes" rows="3" maxlength="300"></textarea></label>
+        <div class="dialog-actions"><button type="button" class="button secondary" data-close-dialog>Cancel</button><button class="button">Add item</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="location-dialog">
+      <form id="location-form">
+        <div class="dialog-top"><h2>Add location</h2><button type="button" class="icon-button" data-close-dialog aria-label="Close">×</button></div>
+        <label>Location name<input name="location" required maxlength="100" /></label>
+        <div class="dialog-actions"><button type="button" class="button secondary" data-close-dialog>Cancel</button><button class="button">Add location</button></div>
+      </form>
+    </dialog>
+    <div id="toast" role="status"></div>
+    <script src="app.js"></script>
+  </body>
+</html>
