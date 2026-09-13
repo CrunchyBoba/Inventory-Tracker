@@ -40,23 +40,6 @@ The deployed static site saves edits in the browser's local storage. This means 
 
 Do this only when you want to replace the starting inventory, not for normal annual adjustments:
 
-```bash
-python3 scripts/clean_inventory.py "/full/path/to/new-closing-inventory.csv"
-```
-
-## Publish with GitHub Pages
-
-1. Create an empty GitHub repository, for example `hkdbf-inventory`.
-2. In this folder, run:
-
-   ```bash
-   git init
-   git add .
-   git commit -m "Create HKDBF inventory tracker"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/hkdbf-inventory.git
-   git push -u origin main
-   ```
 
 3. On GitHub, open the repository’s **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**, choose `main`, and choose `/ (root)`. Save.
