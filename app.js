@@ -7,7 +7,7 @@ const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (c) => ({ "&":"&
 const today = new Intl.DateTimeFormat("en-US", { dateStyle: "full" }).format(new Date());
 
 async function loadData() {
-  const [baseResponse, changesResponse] = await Promise.all([fetch("data/inventory.json"), fetch("data/changes.json")]);
+  const [baseResponse, changesResponse] = await Promise.all([fetch("./data/local-inventory.json"),fetch("./data/local-changes.json")]);  
   const base = await baseResponse.json();
   const changeData = await changesResponse.json();
   inventory = JSON.parse(localStorage.getItem(KEYS.inventory) || "null") || base.items;
